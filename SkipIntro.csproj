@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+    <PropertyGroup>
+        <RootNamespace>SkipIntro</RootNamespace>
+    </PropertyGroup>
+
+    <!--Thunderstore Info-->
+    <PropertyGroup>
+        <Product>Skip_Intro</Product>
+        <Description></Description>
+        <RepositoryUrl>https://github.com/bls220/VoidCrew_SkipIntro</RepositoryUrl>
+    </PropertyGroup>
+</Project>
