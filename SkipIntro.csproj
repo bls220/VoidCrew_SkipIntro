@@ -5,8 +5,13 @@
 
     <!--Thunderstore Info-->
     <PropertyGroup>
-        <Product>Skip_Intro</Product>
-        <Description></Description>
+        <Product>SkipIntro</Product>
+        <Description>Skips the intro cinematic</Description>
         <RepositoryUrl>https://github.com/bls220/VoidCrew_SkipIntro</RepositoryUrl>
     </PropertyGroup>
+    <ItemGroup>
+        <Reference Include="VoidManager">
+          <HintPath>$(GamePath)BepInEx\plugins\VoidManager\VoidManager.dll</HintPath>
+        </Reference>
+    </ItemGroup>
 </Project>
