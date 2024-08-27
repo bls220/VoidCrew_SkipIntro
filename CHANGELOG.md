@@ -8,6 +8,11 @@ and this project adheres to [Semantic Versioning v2](https://semver.org/spec/v2.
 
 ## Unreleased
 
+## [1.1.1] - 2024-08-26
+
+### Fixed
+- Add VoidManager to Thunderstore Dependencies
+
 ## [1.1.0] - 2024-08-26
 
 ### Added
@@ -21,5 +26,6 @@ and this project adheres to [Semantic Versioning v2](https://semver.org/spec/v2.
 _Initial Release_
 
 
+[1.1.1]: https://github.com/bls220/VoidCrew_SkipIntro/releases/tag/v1.1.1
 [1.1.0]: https://github.com/bls220/VoidCrew_SkipIntro/releases/tag/v1.1.0
 [1.0.0]: https://github.com/bls220/VoidCrew_SkipIntro/commit/cc8f223f348b4775b00023e20cf0903f05dfec17
