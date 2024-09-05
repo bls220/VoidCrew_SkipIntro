@@ -6,7 +6,7 @@ namespace SkipIntro;
 
 [BepInPlugin(ThisAssembly.PluginGUID, ThisAssembly.PluginTitle, ThisAssembly.AssemblyFileVersion)]
 [BepInProcess("Void Crew.exe")]
-[BepInDependency("VoidManager")]
+[BepInDependency(VoidManager.MyPluginInfo.PLUGIN_GUID)]
 public partial class Plugin : BaseUnityPlugin
 {
     private static readonly Harmony _harmony = new(ThisAssembly.PluginGUID);

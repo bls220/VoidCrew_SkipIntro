@@ -8,6 +8,11 @@ and this project adheres to [Semantic Versioning v2](https://semver.org/spec/v2.
 
 ## Unreleased
 
+## [1.1.2] - 2024-09-05
+### Changed
+- Adjusted VoidManager dependency reference
+- Updated VoidManager to 1.1.8
+
 ## [1.1.1] - 2024-08-26
 
 ### Fixed
